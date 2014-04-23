@@ -1,10 +1,9 @@
 {
-  "name": "gevans/honeybadger",
+  "name": "o0khoiclub0o/honeybadger-php",
   "description": "Unofficial PHP library for reporting errors to honeybadger.io",
-  "version": "0.1.0",
   "type": "library",
   "keywords": ["error", "reporting", "honeybadger", "exception"],
-  "homepage": "https://github.com/gevans/honeybadger-php",
+  "homepage": "https://github.com/o0khoiclub0o/honeybadger-php",
   "license": "MIT",
   "authors": [
     {
@@ -14,11 +13,6 @@
       "role": "Maintainer"
     }
   ],
-  "support": {
-    "issues": "https://github.com/gevans/honeybadger-php/issues",
-    "wiki": "https://github.com/gevans/honeybadger-php/wiki",
-    "source": "https://github.com/gevans/honeybadger-php"
-  },
   "require": {
     "php": ">= 5.3.0",
     "guzzle/guzzle": ">= 3.0, < 3.5"
